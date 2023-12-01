@@ -6,10 +6,10 @@
 - [x] CI/CD Basics
   - Continuous Integration (CI)
   - Continuous Delivery/Deployment (CD)
-- [ ] Source Code Basics
+- [x] Source Code Basics
   - Source Code Management (SCM)
   - Best Practices
-- [ ] Application Management Basics
+- [x] Application Management Basics
   - Software Lifecycle Management
   - Understanding APIs
   - Database Management
